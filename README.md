@@ -1,73 +1,46 @@
-💻 Full-Stack Developer | Web & Mobile Engineer
+# 👋 Hi, I'm Aurel Golemi
 
-Hi, I'm Aurel Golemi 👋 — a passionate Full-Stack Developer with skills in building scalable, secure, and user-friendly applications. I love turning complex problems into simple, beautiful, and intuitive digital experiences.
+🚀 Aspiring Software Developer passionate about building modern, scalable, and user-friendly applications.  
+Currently learning and creating projects to strengthen my development skills.
 
-🚀 Tech Stack
-🌐 Frontend
+---
 
-Languages: HTML, CSS, JavaScript, TypeScript
+## 🔧 Core Tech Skills
 
-Frameworks & Libraries: React, Next.js, React Native, TailwindCSS
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, TypeScript  
+- **Backend:** Node.js (basic)  
+- **Other Tools & Skills:** Git/GitHub, SEO Basics, Google Analytics 4, Prompt Engineering, AI Tools  
 
-⚙️ Backend
+---
 
-Languages: Node.js, Express.js, Python (basic), C++ (academic)
+## 📌 Featured Projects
+- **Product Landing Page** – Clothing brand website built with HTML, CSS, JavaScript.  
+- **Travel Planner** – Interactive web app for planning trips.  
+- **Daily Tracker** – ReactJS app for tracking daily activities.  
 
-Databases: MySQL, PostgreSQL, MongoDB
+👉 Explore my repositories for more!
 
-APIs: REST, GraphQL (learning)
+---
 
-📱 Mobile Development
+## 📊 GitHub Stats
 
-React Native, Expo
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AurelGolemi&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
 
-🛠️ Tools & Platforms
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AurelGolemi&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-Git & GitHub, VS Code, Postman, Docker (learning), Firebase, Vercel, Netlify
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AurelGolemi&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-Analytics & Marketing: Google Analytics 4, Google Ads, SEO (basic), SEMrush
+---
 
-🤖 AI & Automation
+## 📫 Connect With Me
+- GitHub: [AurelGolemi](https://github.com/AurelGolemi)
+- LinkedIn: *(add your LinkedIn if you have one)*
 
-Prompt Engineering, AI Integrations, ChatGPT APIs
-
-📌 Featured Projects
-🛒 Vehicle App
-
-A full-featured app for buying/renting vehicles with real-time availability, GPS navigation, secure payments, emergency assistance, AI recommendations, and more.
-🔗 View Repository
-
-🌍 Travel Planner
-
-A web app for organizing trips with itinerary planning, booking management, and interactive maps.
-🔗 View Repository
-
-👕 Product Landing Page
-
-A modern, responsive landing page for a clothing brand.
-🔗 View Repository
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aurelgolemi&show_icons=true&theme=tokyonight" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurelgolemi&layout=compact&theme=tokyonight" height="165"/> </p>
-🌟 What I’m Currently Working On
-
-Learning APIs, Databases & Deployment
-
-Mastering Google Analytics 4 + Ads for web traffic optimization
-
-Building real-world apps that combine AI + Full-Stack Development
-
-📬 Connect With Me: https://www.instagram.com/aurelgolemi2/
-
-
-
-💼 LinkedIn: https://www.linkedin.com/in/aurel-golemi-8518272b7/
-
-📧 Email: golemiaurel68@gmail.com
-
-🔥 “Code is like humor. When you have to explain it, it’s bad.”
-
-<!---
-AurelGolemi/AurelGolemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+⭐️ From [AurelGolemi](https://github.com/AurelGolemi)
