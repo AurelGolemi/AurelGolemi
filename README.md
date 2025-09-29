@@ -40,7 +40,7 @@ Currently learning and creating projects to strengthen my development skills.
 
 ## 📫 Connect With Me
 - GitHub: [AurelGolemi](https://github.com/AurelGolemi)
-- LinkedIn: *(add your LinkedIn if you have one)*
+- LinkedIn: (https://www.linkedin.com/in/aurel-golemi-8518272b7/)
 
 ---
 ⭐️ From [AurelGolemi](https://github.com/AurelGolemi)
