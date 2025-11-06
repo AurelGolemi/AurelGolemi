@@ -1,21 +1,21 @@
 # 👋 Hi, I'm Aurel Golemi
 
-🚀 Aspiring Software Developer passionate about building modern, scalable, and user-friendly applications.  
+🚀 Aspiring Software Developer passionate about building modern, scalable, and user-friendly websites & applications.  
 Currently learning and creating projects to strengthen my development skills.
 
 ---
 
 ## 🔧 Core Tech Skills
 
-- **Frontend:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, TypeScript  
+- **Frontend:** Core Web Technologies, React, Next.js, Tailwind CSS, TypeScript, React, Vercel
 - **Backend:** Node.js (basic)  
-- **Other Tools & Skills:** Git/GitHub, SEO Basics, Google Analytics 4, Prompt Engineering, AI Tools  
+- **Other Tools & Skills:** Git/GitHub, SEO Basics, Google Analytics 4, Prompt Engineering, AI Tools, Wordpress & Elementor (Basic)  
 
 ---
 
 ## 📌 Featured Projects
-- **Product Landing Page** – Clothing brand website built with HTML, CSS, JavaScript.  
-- **Travel Planner** – Interactive web app for planning trips.  
+- **Product Landing Page** – Clothing brand website built with NextJs, Tailwind CSS, TypeScript.  
+- **Athens House Of Myths** – Revamped the official website of Athens House of Myths to enhance usability, improve responsiveness, and modernize visual presentation. Focused on layout restructuring, page optimization, and ensuring a seamless user experience across devices.
 - **Daily Tracker** – ReactJS app for tracking daily activities.  
 
 👉 Explore my repositories for more!
