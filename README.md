@@ -1,95 +1,81 @@
-# 👋 Hi, I'm Aurel Golemi
-
-🚀 **Junior Frontend / Web Developer** focused on building modern, performant, and scalable web applications.  
-I work primarily with React-based ecosystems and real-world production setups, bridging clean UI with measurable business outcomes.
-
-I have completed a hands-on internship and delivered multiple live websites, working across development, deployment, SEO, and analytics.
-
+# Aurel Golemi
+ 
+Full-Stack Developer — Athens, Greece
+ 
+[Portfolio](https://portfolio-websitepuce-seven-59.vercel.app) · [GitHub](https://github.com/AurelGolemi) · [LinkedIn](https://www.linkedin.com/in/aurel-golemi-8518272b7/) · [Email](mailto:golemiaurel68@gmail.com)
+ 
+---
+ 
+## About
+ 
+I'm a full-stack developer working primarily in the Next.js / TypeScript ecosystem, with a backend focus on PostgreSQL, Drizzle ORM, and Neon. I graduated as a Software Technician from IEK ALFA in Athens in February 2026, and I build projects end-to-end — from schema design and auth to UI and deployment.
+ 
+Albanian is my native language and I'm fluent in English (C1) and Greek.
+ 
+---
+ 
+## Tech Stack
+ 
+**Languages**
+TypeScript · JavaScript · Python · SQL
+ 
+**Frontend**
+React · Next.js · Tailwind CSS
+ 
+**Backend**
+Node.js · PostgreSQL · Drizzle ORM · Neon
+ 
+**Auth**
+Neon Auth (Better Auth) · Supabase Auth
+ 
+**Tools & Platforms**
+Git · GitHub · Vercel · Hostinger
+ 
 ---
 
-## 🧠 Core Expertise
+## Experience
+ 
+**Web Developer — LeonArchitectGroup** (Internship)
+*Jul 2025 – Dec 2025*
+ 
+- Maintained and enhanced two live WordPress/Elementor sites, focusing on responsive layout, mobile performance, and SEO.
+- Built and customized two additional sites from initial scaffolds, working independently within existing codebases.
+- Handled deployment across two hosting environments (Hostinger and Netlify), including domain configuration.
+- Used Git/GitHub for version control across all projects; incorporated AI-assisted tools (GitHub Copilot, Blackbox AI) into the workflow while handling code review, testing, and debugging manually.
 
-### Frontend Development
-- React, Next.js
-- TypeScript
-- Tailwind CSS
-- Responsive & component-driven UI
-- Performance-aware layouts
-
-### Web & Application Tooling
-- Git & GitHub
-- Vercel & Netlify deployments
-- Environment setup with VS Code
-- Consent Mode implementation (Cookiebot, GTM)
-
-### Analytics & Optimization
-- Google Analytics 4 (GA4 - Foundational)
-- Google Tag Manager (Foundational)
-- Basic SEO & SEMrush
-- Traffic tracking & behavior analysis
-
-### Other Skills
-- Prompt Engineering & AI tools
-- WordPress & Elementor (foundational)
-- Basic Node.js knowledge
+**Stack:** WordPress, Elementor, HTML, CSS, JavaScript, Git/GitHub, Hostinger, Netlify
 
 ---
-
-## 💼 Internship Experience – Selected Work
-
-The following projects were developed **as part of a professional internship**, contributing to real-world websites and applications under production constraints.
-
-### **Mitriki Agkalia**
-Contributed to the development of a production website using **React, TypeScript, and Tailwind CSS**.  
-Worked on UI implementation, responsiveness, deployment setup, and performance considerations.
-
-### **Bioresonance Website (In Progress)**
-Frontend development for a React-based website deployed on **Netlify**.  
-Focused on scalable component structure, UX layout, and future extensibility. Project currently in progress.
-
-### **Athens House of Myths**
-Participated in the redesign and modernization of the official website.  
-Improved layout structure, responsiveness, and overall usability across devices.
-
-### **Leon Architect Group**
-Contributed to the development of a professional architecture studio website.  
-Worked on frontend layout structure, responsive design, and visual presentation aligned with brand identity.
-
+ 
+## Featured Projects
+ 
+### EmployTrack
+A full-stack job application tracker built to manage the job search process end-to-end — applications CRUD and an interview preparation module with company-specific notes.
+ 
+- **Stack:** Next.js, TypeScript, Neon, Drizzle ORM, Neon Auth
+- **Highlights:** Custom PostgreSQL schema and migrations, server actions for data mutations, consistent design system across all pages
+- **Links:** [Live](https://employ-track-job-application-tracker.onrender.com/) · [Repo](https://github.com/AurelGolemi/employ-track-job-application-tracker)
+### AVR Paros Transfer
+A production website for a transport business in Paros, Greece, delivered end-to-end from client requirements through deployment.
+ 
+- **Stack:** HTML, CSS, JavaScript
+- **Highlights:** Client-facing production site, full deployment pipeline (Hostinger DNS), screenshot-based approval workflow before production releases
+- **Links:** [Live](https://avrparostransfer.com) · [Repo](https://github.com/AurelGolemi/AVR-Paros-Transfer)
+### Street Style
+An e-commerce project covering product browsing, account management, and core storefront pages.
+ 
+- **Stack:** Next.js, TypeScript, Tailwind CSS, Supabase
+- **Highlights:** Consolidated three separate authentication systems into a single coherent flow, built a responsive header with a session-aware account dropdown
+- **Links:** [Live](https://street-style-iota.vercel.app/) · [Repo](https://github.com/AurelGolemi/Street-Style)
 ---
-
-## 🧪 Personal Projects
-
-### **Product Landing Page**
-Independently designed and developed a clothing brand landing page using **Next.js, TypeScript, and Tailwind CSS**.  
-Focused on responsive design, performance, SEO-friendly structure, and conversion-oriented layout.
-
-### **Additional Personal Work**
-My repositories also include smaller projects and experiments aimed at:
-- Strengthening React and JavaScript fundamentals
-- Practicing component-driven UI development
-- Exploring frontend patterns and state management
-
+ 
+## Currently
+ 
+- Building out EmployTrack toward a v1 release
+- Working through a Python certification via freeCodeCamp
+- Applying for junior full-stack and frontend roles in Athens
 ---
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AurelGolemi&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AurelGolemi&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AurelGolemi&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-## 📫 Connect With Me
-- GitHub: [AurelGolemi](https://github.com/AurelGolemi)
-- LinkedIn: https://www.linkedin.com/in/aurel-golemi-8518272b7/
-
----
-⭐️ From [AurelGolemi](https://github.com/AurelGolemi)
+ 
+## Contact
+ 
+Reach out via [email](mailto:golemiaurel68@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aurel-golemi-8518272b7/).
